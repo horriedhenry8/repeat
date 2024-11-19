@@ -1,0 +1,27 @@
+
+nav , nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul li a{
+    text-decoration: none;
+    margin: 2vh 2vw;
+    padding: 2px;
+    color: #424247;
+}
+
+
+.logo{ 
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+
+.logo span{
+    color: #ff5400;
+}
+svg{
+    width: 1vw;
+}
